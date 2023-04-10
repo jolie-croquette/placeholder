@@ -1,0 +1,13 @@
+github.com/jolie-croquette/placeholder/db.json
+
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
